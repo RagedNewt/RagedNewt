@@ -28,13 +28,6 @@
 </p>
 
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://github.com/RagedNewt">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RagedNewt&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
